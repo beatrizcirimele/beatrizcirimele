@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beatrizcirimele&layout=compact"/>
 </div>
 
-I am a brazilian software Engineer who talks in English, Portuguese and german. I've worked with languages like  HTML/CSS, JS, TS, NodeJS, React and C#. I'm always ready to adapt to any new language.
+I am a brazilian software Engineer who talks in English, Portuguese and german. I've worked with languages like  Java, JS, TS, NodeJS, React and C#. I'm always ready to adapt to any new language.
 
 I view software development as more than just programming, but something about solving problems and understanding the global scope. 
 
